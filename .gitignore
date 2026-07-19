@@ -5,4 +5,4 @@ __pycache__/
 *.log
 
 # Ignore raw logs not needed in repo
-project-customer-support-analytics/data-ingestion/data-ingestion/support-logs/day-wise-logs-data/
+
