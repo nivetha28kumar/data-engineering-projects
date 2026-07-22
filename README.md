@@ -90,8 +90,8 @@ A scalable, ACID-compliant data pipeline designed to ingest, transform, and anal
 | Layer | Tools |
 | --- | --- |
 | Raw Layer | Python, Boto3, S3 |
-| Processed Layer | AWS Lambda, Glue Spark |
-| Curated Layer | Glue Spark, PySpark |
+| Processed Layer | AWS Lambda, Glue visual editor |
+| Curated Layer | Glue pyspark, lambda |
 | Query Layer | Athena, Glue Data Catalog |
 | Warehouse | Redshift Serverless |
 | Visualization | Power BI |
