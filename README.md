@@ -51,7 +51,7 @@ A scalable, ACID-compliant data pipeline designed to ingest, transform, and anal
   - Debug/error pattern analysis
 
 ### 5️⃣ Warehouse Layer (Redshift Serverless)
-- Curated logs and tickets loaded into:
+- Processed logs and tickets loaded into:
   - `support_logs`
   - `support_tickets`
 - COPY commands use IAM roles for secure S3 → Redshift load.
